@@ -32,24 +32,37 @@
 
 * [Click here](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise.pdf)
 
-Backend: 
+* Backend: [Click here](https://github.com/amandajuhl95/week39/tree/master/Wednesday/wednesdayExercise2_backend)
 
-* [Click here](https://github.com/amandajuhl95/week39/tree/master/Wednesday/wednesdayExercise2_backend)
+* Frontend: [HTML](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise2_frontend/public/index.html) and [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise2_frontend/src/index.js)
 
-Frontend:
-
-* [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise2_frontend/src/index.js)
-
-* [HTML](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise2_frontend/public/index.html)
-
-Document the API:
-
-* [Click here](https://github.com/amandajuhl95/week39/blob/master/Wednesday/Documenting%20a%20REST%20API.pdf)
+* Document the API: [Click here](https://github.com/amandajuhl95/week39/blob/master/Wednesday/Documenting%20a%20REST%20API.pdf)
 
 ### Thursday
 
 #### Exercise: CORS and Single Page Application (SPA) - 
 
+#### Exercise 1: 
+
+* Answers to questions in sections with backend and frontend. [Click here](https://github.com/amandajuhl95/week39/blob/master/Thursday/ThursdayExercise2.pdf)
+
+* Backend: [Click here](https://github.com/amandajuhl95/week39/tree/master/Thursday/thursdayExercise_backend/src/main/java)
+
+* Frontend: [HTML](https://github.com/amandajuhl95/week39/blob/master/Thursday/thursdayExercise_frontend/public/index.html) and [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Thursday/thursdayExercise_frontend/src/index.js)
+
+#### Exercise 2:
+
+* For this exercise, I had a few problems. When I tried to use my wednesday-project from last week, I got two exceptions after i deployed it on tomcat [Link](https://www.ajuhlhansen.dk/wednesdayE/api/person). Therefor I decided to use the same project as in exercise 1, to show that I could deploy the project on tomcat and on surge. 
+
+* Backend: [Click here](https://github.com/amandajuhl95/week39/tree/master/Thursday/thursdayExercise2_backend/src/main/java)
+
+* Frontend: [HTML](https://github.com/amandajuhl95/week39/blob/master/Thursday/thursdayExercise2_frontend/public/index.html) and [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Thursday/thursdayExercise2_frontend/src/index.js)
+
+#### Exercise 3:
+
+* Deployed backend to [tomcat](https://www.ajuhlhansen.dk/thursdayExercise/api/person/all)
+
+* Deployed frontend to surge.sh [surge](http://ajuhl.surge.sh/)
 
 ### Friday
 
