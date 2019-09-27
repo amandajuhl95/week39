@@ -8,7 +8,7 @@
 
 * I have completed the exercises from 1 - 7. I tried my best with exercise 9, but it didn't work. 
 
-* [Click here](https://github.com/amandajuhl95/week39/blob/master/Tuesday/tuesdayExercise.js)
+* To see solution click [here](https://github.com/amandajuhl95/week39/blob/master/Tuesday/tuesdayExercise.js)
 
 ### Wednesday
 
@@ -26,9 +26,7 @@
 
 #### Exercise 4:
 
-* Below is the answers on the exercise: 
-
-* [Click here](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise.pdf)
+* To see answers on this exercise click [here](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise.pdf)
 
 * Backend: [Click here](https://github.com/amandajuhl95/week39/tree/master/Wednesday/wednesdayExercise2_backend)
 
@@ -42,7 +40,7 @@
 
 #### Exercise 1: 
 
-* Answers to questions in sections with backend and frontend: [Click here](https://github.com/amandajuhl95/week39/blob/master/Thursday/ThursdayExercise2.pdf)
+* To see answers to questions in sections with backend and frontend, click [here](https://github.com/amandajuhl95/week39/blob/master/Thursday/ThursdayExercise2.pdf)
 
 * Backend: [Click here](https://github.com/amandajuhl95/week39/tree/master/Thursday/thursdayExercise_backend/src/main/java)
 
@@ -68,9 +66,7 @@
 
 #### General and practical part:
 
-* Below is the answers on the exercise for the general and practical part:
-
-* [Click here](https://github.com/amandajuhl95/week39/blob/master/Friday/fridayExercise.pdf)
+* To see the answers click [here](https://github.com/amandajuhl95/week39/blob/master/Friday/fridayExercise.pdf)
 
 #### Practical part:
 
