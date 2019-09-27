@@ -26,7 +26,7 @@
 
 #### Exercise 4:
 
-* To see answers on this exercise click [here](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise.pdf) (PDF-file)
+* To see answers on this exercise - click [here](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise.pdf) (PDF-file)
 
 * Backend: [Click here](https://github.com/amandajuhl95/week39/tree/master/Wednesday/wednesdayExercise2_backend)
 
@@ -40,7 +40,7 @@
 
 #### Exercise 1: 
 
-* To see answers to questions in sections with backend and frontend, click [here](https://github.com/amandajuhl95/week39/blob/master/Thursday/ThursdayExercise2.pdf) (PDF-file)
+* To see answers to questions in sections with backend and frontend - click [here](https://github.com/amandajuhl95/week39/blob/master/Thursday/ThursdayExercise2.pdf) (PDF-file)
 
 * Backend: [Click here](https://github.com/amandajuhl95/week39/tree/master/Thursday/thursdayExercise_backend/src/main/java)
 
@@ -66,7 +66,7 @@
 
 #### General and practical part:
 
-* To see the answers click [here](https://github.com/amandajuhl95/week39/blob/master/Friday/fridayExercise.pdf) (PDF-file)
+* To see the answers - click [here](https://github.com/amandajuhl95/week39/blob/master/Friday/fridayExercise.pdf) (PDF-file)
 
 #### Practical part:
 
