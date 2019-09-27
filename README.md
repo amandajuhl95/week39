@@ -48,7 +48,7 @@
 
 #### Exercise 2:
 
-* For this exercise, I had a few problems. When I tried to use my wednesday-project from last week, I got two exceptions after i deployed it on tomcat [Link](https://www.ajuhlhansen.dk/wednesdayE/api/person). Therefor I decided to use the same project as in exercise 1, to show that I could deploy the project on tomcat and on surge. 
+* For this exercise, I had a few problems. When I tried to use my wednesday-project from last week, I got two exceptions after I deployed it on tomcat [link](https://www.ajuhlhansen.dk/wednesdayE/api/person). Therefor I decided to use the same project as in exercise 1, to show that I could deploy the project on tomcat and on surge. 
 
 * Backend: [Click here](https://github.com/amandajuhl95/week39/tree/master/Thursday/thursdayExercise2_backend/src/main/java)
 
