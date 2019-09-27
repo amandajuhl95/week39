@@ -74,8 +74,6 @@
 
 #### Practical part:
 
-* [HTML](https://github.com/amandajuhl95/week39/blob/master/Friday/fridayExercise_frontend/public/index.html)
-
-* [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Friday/fridayExercise_frontend/src/index.js)
+* [HTML](https://github.com/amandajuhl95/week39/blob/master/Friday/fridayExercise_frontend/public/index.html) and [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Friday/fridayExercise_frontend/src/index.js)
 
 * I completed everything in the friday exercise, except 3) where I should design a Web Proxy Solution. This is because I don't understand how a proxy works.
