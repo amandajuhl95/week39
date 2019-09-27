@@ -16,9 +16,13 @@
 
 * I completed everything, except from the exercise: "CORS (meant for Thursday)". 
 
-#### Exercise 1: [HTML](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayJoke/public/index.html) and [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayJoke/src/index.js)
+#### Exercise 1: 
 
-#### Exercise 2 and 3: [HTML](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise/public/index.html) and [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise/src/index.js)
+* [HTML](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayJoke/public/index.html) and [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayJoke/src/index.js)
+
+#### Exercise 2 and 3: 
+
+* [HTML](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise/public/index.html) and [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise/src/index.js)
 
 #### Exercise 4:
 
