@@ -8,7 +8,7 @@
 
 * I have completed the exercises from 1 - 7. I tried my best with exercise 9, but it didn't work. 
 
-* To see solution click [here](https://github.com/amandajuhl95/week39/blob/master/Tuesday/tuesdayExercise.js)
+* To see solution - click [here](https://github.com/amandajuhl95/week39/blob/master/Tuesday/tuesdayExercise.js)
 
 ### Wednesday
 
