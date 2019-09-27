@@ -6,22 +6,49 @@
 
 #### Exercise: Callbacks and more - almost completed
 
-* The link below 
+* I have completed the exercises from 1 - 7. I tried my best with exercise 9, but it didn't work. 
 
 * [Click here](https://github.com/amandajuhl95/week39/blob/master/Tuesday/tuesdayExercise.js)
 
-* [Click here](https://github.com/amandajuhl95/week38/tree/master/tuesdayExercise/src/main/java)
-
 ### Wednesday
 
-#### Exercise: REST with JAX RS - almost completed
+#### Exercise: Fetch and Promises - almost completed
 
-* I completed the whole part for wednesday, and for Thursday I completed the exercise: "Error Handling with JAX RS and ExceptionMappers", but I didn't complete the exercise: "Entity-classes with realtion"
+* I didn't do the exercise: "CORS (meant for Thursday)". 
 
-* [Click here](https://github.com/amandajuhl95/week38/tree/master/wednesdayExercise/src)
+##### Exercise 1:
+
+* [HTML](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayJoke/public/index.html)
+
+* [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayJoke/src/index.js)
+
+##### Exercise 2 and 3:
+
+* [HTML](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise/public/index.html)
+
+* [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise/src/index.js)
+
+##### Exercise 4:
+
+* [Click here](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise.pdf)
+
+* Backend: 
+
+* [Click here](https://github.com/amandajuhl95/week39/tree/master/Wednesday/wednesdayExercise2_backend)
+
+* Frontend:
+
+* [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise2_frontend/src/index.js)
+
+* [HTML](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise2_frontend/public/index.html)
+
+* Document the API:
+
+* [Click here](https://github.com/amandajuhl95/week39/blob/master/Wednesday/Documenting%20a%20REST%20API.pdf)
 
 ### Thursday
 
+#### Exercise: CORS and Single Page Application (SPA) - 
 
 
 ### Friday
