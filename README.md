@@ -14,7 +14,7 @@
 
 #### Exercise: Fetch and Promises - almost completed
 
-* I didn't do the exercise: "CORS (meant for Thursday)". 
+* I completed everything, except from the exercise: "CORS (meant for Thursday)". 
 
 #### Exercise 1:
 
