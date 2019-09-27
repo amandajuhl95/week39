@@ -4,9 +4,11 @@
 
 ### Tuesday
 
-#### Exercise: JPA Relations - almost completed
+#### Exercise: Callbacks and more - almost completed
 
-* I didn't have time to complete the last part of the assignment 5) Many-To-Many
+* The link below 
+
+* [Click here](https://github.com/amandajuhl95/week39/blob/master/Tuesday/tuesdayExercise.js)
 
 * [Click here](https://github.com/amandajuhl95/week38/tree/master/tuesdayExercise/src/main/java)
 
