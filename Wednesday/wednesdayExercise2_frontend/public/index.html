@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link href="style.css" rel="stylesheet">
+</head>
+
+<body>
+  <div class="container" id="div">
+      <h2>Users</h2>
+      <br><br>
+      <button id="getUser">Get user</button>
+      <input type=number id="id" placeholder="Enter id"/>
+      <br><br>
+      <button id="deleteUser">Delete user</button>
+      <button id="editUser">Edit user</button>
+      <input type=number id="user_id" placeholder="Enter id (edit/delete)"/>
+      <br><br>
+      <button id="addUser">Add user</button>
+      <input type="text" id="name" placeholder="Enter name"/>
+      <input type=number id="age" placeholder="Enter age"/>
+      <input type="text" id="email" placeholder="Enter e-mail"/>
+      <select id = "dropdown">
+        <option value = "male">Male</option>
+        <option value = "female">Female</option>
+      </select>    
+      <br><br>
+      <p id="error"></p>
+      <br>
+      <table id="table" class="table">
+          <thead>
+              <tr>                
+                  <th>Id</th>
+                  <th>Name</th>
+                  <th>Age</th>
+                  <th>Gender</th>
+                  <th>E-mail</th>
+              </tr>
+          </thead>
+          <tbody id="tablebody">
+          </tbody>
+      </table>
+    <br/>
+    <br/>
+  </div>
+  <script src="bundle.js"></script>
+</body>
+
+</html>
