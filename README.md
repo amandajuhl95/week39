@@ -26,13 +26,13 @@
 
 #### Exercise 4:
 
-* To see answers on this exercise click [here](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise.pdf)
+* To see answers on this exercise click [here](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise.pdf) (PDF-file)
 
 * Backend: [Click here](https://github.com/amandajuhl95/week39/tree/master/Wednesday/wednesdayExercise2_backend)
 
 * Frontend: [HTML](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise2_frontend/public/index.html) and [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise2_frontend/src/index.js)
 
-* Document the API: [Click here](https://github.com/amandajuhl95/week39/blob/master/Wednesday/Documenting%20a%20REST%20API.pdf)
+* Document the API: [Click here](https://github.com/amandajuhl95/week39/blob/master/Wednesday/Documenting%20a%20REST%20API.pdf) (PDF-file)
 
 ### Thursday
 
@@ -40,7 +40,7 @@
 
 #### Exercise 1: 
 
-* To see answers to questions in sections with backend and frontend, click [here](https://github.com/amandajuhl95/week39/blob/master/Thursday/ThursdayExercise2.pdf)
+* To see answers to questions in sections with backend and frontend, click [here](https://github.com/amandajuhl95/week39/blob/master/Thursday/ThursdayExercise2.pdf) (PDF-file)
 
 * Backend: [Click here](https://github.com/amandajuhl95/week39/tree/master/Thursday/thursdayExercise_backend/src/main/java)
 
@@ -66,7 +66,7 @@
 
 #### General and practical part:
 
-* To see the answers click [here](https://github.com/amandajuhl95/week39/blob/master/Friday/fridayExercise.pdf)
+* To see the answers click [here](https://github.com/amandajuhl95/week39/blob/master/Friday/fridayExercise.pdf) (PDF-file)
 
 #### Practical part:
 
