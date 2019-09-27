@@ -26,7 +26,9 @@
 
 #### Exercise 4:
 
-* This is a link to my answers for this exercise: [Click here](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise.pdf)
+* Below is the answers on the exercise: 
+
+* [Click here](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise.pdf)
 
 * Backend: [Click here](https://github.com/amandajuhl95/week39/tree/master/Wednesday/wednesdayExercise2_backend)
 
@@ -40,7 +42,7 @@
 
 #### Exercise 1: 
 
-* Answers to questions in sections with backend and frontend. [Click here](https://github.com/amandajuhl95/week39/blob/master/Thursday/ThursdayExercise2.pdf)
+* Answers to questions in sections with backend and frontend: [Click here](https://github.com/amandajuhl95/week39/blob/master/Thursday/ThursdayExercise2.pdf)
 
 * Backend: [Click here](https://github.com/amandajuhl95/week39/tree/master/Thursday/thursdayExercise_backend/src/main/java)
 
@@ -56,21 +58,24 @@
 
 #### Exercise 3:
 
-* Deployed backend to [tomcat](https://www.ajuhlhansen.dk/thursdayExercise/api/person/all)
+* Deployed backend to [droplet](https://www.ajuhlhansen.dk/thursdayExercise/api/person/all)
 
 * Deployed frontend to surge.sh [surge](http://ajuhl.surge.sh/)
 
 ### Friday
 
-#### Exercise: Object Relational Mapping with JPA - Solution completed
+#### Exercise: Exam preparation exercise about AJAX, CORS and SVG - almost completed
 
-* Below is the answers on the exercise
+#### General and practical part:
 
-* [Click here](https://github.com/amandajuhl95/week38/blob/master/fridayExercise.pdf)
+* Below is the answers on the exercise for the general and practical part:
 
-* Below is the netbeansproject
+* [Click here](https://github.com/amandajuhl95/week39/blob/master/Friday/fridayExercise.pdf)
 
-* [Click here](https://github.com/amandajuhl95/week38/tree/master/fridayExercise/src/main/java)
+#### Practical part:
 
-* I didn't do the exercise: "JPA and JPQL (entity classes from existing table)", because of time pressure
+* [HTML](https://github.com/amandajuhl95/week39/blob/master/Friday/fridayExercise_frontend/public/index.html)
 
+* [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Friday/fridayExercise_frontend/src/index.js)
+
+* I completed everything in the friday exercise, except 3) where I should design a Web Proxy Solution. This is because I don't understand how a proxy works.
