@@ -16,33 +16,33 @@
 
 * I didn't do the exercise: "CORS (meant for Thursday)". 
 
-##### Exercise 1:
+#### Exercise 1:
 
 * [HTML](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayJoke/public/index.html)
 
 * [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayJoke/src/index.js)
 
-##### Exercise 2 and 3:
+#### Exercise 2 and 3:
 
 * [HTML](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise/public/index.html)
 
 * [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise/src/index.js)
 
-##### Exercise 4:
+#### Exercise 4:
 
 * [Click here](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise.pdf)
 
-* Backend: 
+Backend: 
 
 * [Click here](https://github.com/amandajuhl95/week39/tree/master/Wednesday/wednesdayExercise2_backend)
 
-* Frontend:
+Frontend:
 
 * [JavaScript](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise2_frontend/src/index.js)
 
 * [HTML](https://github.com/amandajuhl95/week39/blob/master/Wednesday/wednesdayExercise2_frontend/public/index.html)
 
-* Document the API:
+Document the API:
 
 * [Click here](https://github.com/amandajuhl95/week39/blob/master/Wednesday/Documenting%20a%20REST%20API.pdf)
 
