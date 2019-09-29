@@ -10,6 +10,8 @@
 
 * To see solution - click [here](https://github.com/amandajuhl95/week39/blob/master/Tuesday/tuesdayExercise.js)
 
+* [Click here](https://github.com/amandajuhl95/week39/tree/master/Tuesday/tuesdayExercise/src/main/webapp) to see the index.html and Javascript file
+
 ### Wednesday
 
 #### Exercise: Fetch and Promises - almost completed
